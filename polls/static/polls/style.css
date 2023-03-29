@@ -1,0 +1,9 @@
+li a {
+  color: green;
+  text-decoration: none;
+  font-size: 24px;
+}
+
+.choices h5 {
+  color: red;
+}
